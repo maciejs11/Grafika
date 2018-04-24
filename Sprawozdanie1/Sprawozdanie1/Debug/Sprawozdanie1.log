@@ -1,0 +1,4 @@
+﻿  Zadanie1.cpp
+c:\users\maciek\desktop\sprawozdanie1\sprawozdanie1\zadanie1.cpp(42): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  Sprawozdanie1.vcxproj -> C:\Users\Maciek\Desktop\Sprawozdanie1\Debug\Sprawozdanie1.exe
+  Sprawozdanie1.vcxproj -> C:\Users\Maciek\Desktop\Sprawozdanie1\Debug\Sprawozdanie1.pdb (Partial PDB)
