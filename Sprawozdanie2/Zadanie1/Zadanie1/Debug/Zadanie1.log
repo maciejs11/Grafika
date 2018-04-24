@@ -1,0 +1,10 @@
+﻿  Zadanie1.cpp
+c:\users\maciek\desktop\sprawozdanie3\zadanie1\zadanie1\zadanie1.cpp(41): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\maciek\desktop\sprawozdanie3\zadanie1\zadanie1\zadanie1.cpp(144): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+c:\users\maciek\desktop\sprawozdanie3\zadanie1\zadanie1\zadanie1.cpp(149): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+c:\users\maciek\desktop\sprawozdanie3\zadanie1\zadanie1\zadanie1.cpp(210): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\maciek\desktop\sprawozdanie3\zadanie1\zadanie1\zadanie1.cpp(212): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\maciek\desktop\sprawozdanie3\zadanie1\zadanie1\zadanie1.cpp(214): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\maciek\desktop\sprawozdanie3\zadanie1\zadanie1\zadanie1.cpp(216): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  Zadanie1.vcxproj -> C:\Users\Maciek\Desktop\Sprawozdanie3\Zadanie1\Debug\Zadanie1.exe
+  Zadanie1.vcxproj -> C:\Users\Maciek\Desktop\Sprawozdanie3\Zadanie1\Debug\Zadanie1.pdb (Partial PDB)
