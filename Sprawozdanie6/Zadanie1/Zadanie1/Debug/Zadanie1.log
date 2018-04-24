@@ -1,0 +1,7 @@
+﻿  Zadanie1.cpp
+c:\users\maciek\desktop\sprawozdanie6\zadanie1\zadanie1\zadanie1.cpp(250): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+c:\users\maciek\desktop\sprawozdanie6\zadanie1\zadanie1\zadanie1.cpp(255): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+c:\users\maciek\desktop\sprawozdanie6\zadanie1\zadanie1\zadanie1.cpp(316): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\maciek\desktop\sprawozdanie6\zadanie1\zadanie1\zadanie1.cpp(318): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+  Zadanie1.vcxproj -> C:\Users\Maciek\Desktop\Sprawozdanie6\Zadanie1\Debug\Zadanie1.exe
+  Zadanie1.vcxproj -> C:\Users\Maciek\Desktop\Sprawozdanie6\Zadanie1\Debug\Zadanie1.pdb (Partial PDB)
