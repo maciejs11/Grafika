@@ -1,0 +1,407 @@
+﻿  Zadanie1.cpp
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(18): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(18): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(23): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(23): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(28): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(28): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(30): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(37): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(37): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(42): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(42): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(47): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(47): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(49): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(56): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(56): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(61): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(61): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(66): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(66): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(68): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(80): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(80): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(85): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(85): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(87): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(94): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(94): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(99): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(99): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(104): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(104): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(106): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(113): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(113): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(118): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(118): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(123): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(123): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(125): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(132): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(132): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(137): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(137): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(142): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(142): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(144): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(151): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(151): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(156): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(156): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(161): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(161): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(163): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(170): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(170): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(175): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(175): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(180): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(180): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(182): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(189): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(189): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(194): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(194): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(199): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(199): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(201): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(208): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(208): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(213): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(213): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(218): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(218): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(220): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(227): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(227): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(232): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(232): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(237): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(237): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(239): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(246): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(246): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(251): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(251): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(256): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(256): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(258): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(265): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(265): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(270): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(270): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(275): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(275): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(277): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(284): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(284): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(289): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(289): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(294): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(294): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(296): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(303): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(303): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(308): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(308): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(313): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(313): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(315): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(322): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(322): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(327): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(327): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(332): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(332): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(334): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(346): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(346): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(360): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(360): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(365): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(365): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(370): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\materials.h(370): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(21): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(21): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(26): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(26): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(36): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(36): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(43): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(43): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(50): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(50): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(55): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(55): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(67): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(67): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(81): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(81): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(88): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(88): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(93): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(93): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(98): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(98): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(103): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(103): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(110): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(110): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(117): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(117): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(122): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(122): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(127): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(127): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(134): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(134): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(148): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(148): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(155): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(155): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(160): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(160): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(167): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(167): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(174): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(174): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(181): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(181): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(188): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(188): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(193): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(193): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(200): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(200): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(205): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(205): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(212): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(212): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(217): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(217): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(222): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(222): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(227): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(227): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(232): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(232): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(237): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(237): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(244): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(244): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(249): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(249): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(254): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(254): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(259): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(259): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(264): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(264): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(269): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(269): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(274): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(274): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(279): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(279): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(291): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(291): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(296): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(296): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(303): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(303): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(308): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(308): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(315): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(315): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(322): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(322): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(329): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(329): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(336): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(336): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(343): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(343): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(348): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(348): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(355): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(355): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(362): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(362): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(369): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(369): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(376): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(376): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(381): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(381): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(386): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(386): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(391): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(391): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(396): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(396): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(401): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(401): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(406): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(406): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(411): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(411): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(416): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(416): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(421): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(421): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(426): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(426): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(431): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(431): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(436): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(436): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(441): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(441): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(446): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(446): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(451): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(451): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(456): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(456): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(470): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(470): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(477): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(477): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(491): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(491): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(496): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(496): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(501): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(501): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(506): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(506): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(511): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(511): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(516): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(516): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(521): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(521): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(526): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(526): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(531): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(531): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(536): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(536): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(541): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(541): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(546): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(546): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(551): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(551): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(556): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(556): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(561): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(561): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(568): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(568): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(573): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(573): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(580): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(580): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(588): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(588): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(595): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(595): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(602): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(602): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(607): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(607): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(612): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(612): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(619): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(619): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(626): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(626): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(631): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(631): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(636): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(636): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(641): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(641): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(646): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(646): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(653): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(653): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(660): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(660): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(665): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(665): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(672): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(672): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(684): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(684): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(689): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(689): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(696): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(696): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(703): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(703): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(708): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(708): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(713): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(713): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(718): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(718): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(725): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(725): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(732): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(732): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(739): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(739): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(746): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(746): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(753): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(753): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(760): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(760): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(767): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(767): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(774): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(774): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(781): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(781): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(788): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(788): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(795): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(795): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(802): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(802): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(816): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(816): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(823): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(823): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(828): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(828): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(840): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(840): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(854): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\colors.h(854): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\zadanie1.cpp(82): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\zadanie1.cpp(82): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\zadanie1.cpp(218): warning C4018: '<': signed/unsigned mismatch
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\zadanie1.cpp(225): warning C4018: '<': signed/unsigned mismatch
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\zadanie1.cpp(249): warning C4018: '<': signed/unsigned mismatch
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\zadanie1.cpp(273): warning C4018: '<': signed/unsigned mismatch
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\zadanie1.cpp(297): warning C4018: '<': signed/unsigned mismatch
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\zadanie1.cpp(392): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\zadanie1.cpp(397): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\zadanie1.cpp(425): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\zadanie1.cpp(430): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\zadanie1.cpp(434): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\zadanie1.cpp(439): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\zadanie1.cpp(443): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\zadanie1.cpp(448): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\zadanie1.cpp(511): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\maciek\desktop\sprawozdanie5\zadanie1\zadanie1\zadanie1.cpp(513): warning C4244: '-=': conversion from 'double' to 'GLfloat', possible loss of data
+  VectorMath.cpp
+  Generating Code...
+  Zadanie1.vcxproj -> C:\Users\Maciek\Desktop\Sprawozdanie5\Zadanie1\Debug\Zadanie1.exe
+  Zadanie1.vcxproj -> C:\Users\Maciek\Desktop\Sprawozdanie5\Zadanie1\Debug\Zadanie1.pdb (Partial PDB)
